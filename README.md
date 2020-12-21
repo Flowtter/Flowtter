@@ -15,14 +15,14 @@ def say_hello(key :string):
     <a style="font-size:1.3em; color:inherit; 
     cursor: pointer;" href="https://flowtter.netlify.app/english/contact.html" target="_blank">Contact me !</a>
 </div>
-<div align="center">
+<div align="center" style="height: 500px; overflow: hidden">
     <div style="position:relative; left:-20px; top:-80px">
         <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?Flowtter" frameborder="0"></iframe>
     </div>
 </div>
 
 
-<div align="center" style="position:relative; top:-150px">
+<div align="center" style="position:relative; top:-50px">
 
 **Languages I'm also doing**
 <div>
@@ -39,7 +39,7 @@ def say_hello(key :string):
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
 </div>
 
-**Operating system I'm using**:
+**Operating systems I'm using**:
 <div>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
