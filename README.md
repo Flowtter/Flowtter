@@ -14,7 +14,7 @@ def say_hello(key :string):
 <br>
 
 <div align="center">
-    <a style="font-size:1.3em;" href="https://flowtter.netlify.app/english/contact.html" target="_blank">Contact me !</a>
+    <h4><a href="https://flowtter.netlify.app/english/contact.html" target="_blank">Contact me !</a></h4>
 </div>
 
 <br>
