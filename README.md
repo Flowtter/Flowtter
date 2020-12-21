@@ -21,7 +21,7 @@ def say_hello(key :string):
 <br>
 
 <div align="center">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Flowtter&layout=compact&theme=blueberry" />
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Flowtter&layout=compact&theme=blueberry"/>
 </div>
 
 <br>
@@ -40,7 +40,7 @@ def say_hello(key :string):
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"></code>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
+    <code><img height="20" src="assets/unity.png"></code>
 </div>
 
 **Operating systems I'm using**:
