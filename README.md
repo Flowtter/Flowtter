@@ -14,8 +14,7 @@ def say_hello(key :string):
 <br>
 
 <div align="center">
-    <a style="font-size:1.3em; color:inherit; 
-    cursor: pointer;" href="https://flowtter.netlify.app/english/contact.html" target="_blank">Contact me !</a>
+    <a style="font-size:1.3em;" href="https://flowtter.netlify.app/english/contact.html" target="_blank">Contact me !</a>
 </div>
 
 <br>
@@ -35,6 +34,8 @@ def say_hello(key :string):
     <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 </div>
 
+<br>
+
 **Tools I'm using**:
 <div>
     <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
@@ -42,6 +43,8 @@ def say_hello(key :string):
     <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
     <code><img height="40" src="assets/unity.png"></code>
 </div>
+
+<br>
 
 **Operating systems I'm using**:
 <div>
