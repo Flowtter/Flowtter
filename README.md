@@ -19,11 +19,12 @@ def say_hello(key :string):
 
 <br>
 
-<div align="center">
+<div style="border: 3px solid #fff;
+    padding: 20px;">
+<div align="center" style="width: 50%; float: left; padding: 20px;">
     <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Flowtter&layout=compact&theme=blueberry"/>
-</div>
 
-<br>
+</div>
 
 <div align="center">
 
@@ -52,7 +53,16 @@ def say_hello(key :string):
     <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
     <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png"></code>
 </div>
+
+
+</div>
+
+</div>
+
+<div>
+
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=Flowtter&show_icons=true&theme=blueberry&count_private=true"></a>
+
 
 </div>
