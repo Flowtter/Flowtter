@@ -4,7 +4,7 @@
 <p align="center" >My name is Brice PARENT. I'm Currently studying at <a href="https://github.com/epita" target="_blank">@EPITA</a>.</p>
 
 ```python
-def say_hello(key :string):
+def say_hello(key :str):
     return list(map(ord, key))
 
 >>> say_hello(reverse_engineer_me)
